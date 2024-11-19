@@ -27,7 +27,7 @@ You can create a new Helm chart based on this template using the following comma
 bash <(wget -qO- https://raw.githubusercontent.com/FmTod2/helm-chart-template/refs/heads/setup/create.sh) <chart-name>
 ```
 
-## Usage
+## Manual Usage
 
 1. Clone the repository:
 
