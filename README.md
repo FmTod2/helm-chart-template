@@ -19,6 +19,14 @@ The repository has the following structure:
   - **tests/**: Contains test templates to verify the chart's functionality.
     - **test-connection.yaml**: Template for a test Pod to check the connection.
 
+## Create New Chart
+
+You can create a new Helm chart based on this template using the following command:
+
+```bash
+bash <(wget -qO- https://raw.githubusercontent.com/FmTod2/helm-chart-template/refs/heads/setup/create.sh) <chart-name>
+```
+
 ## Usage
 
 1. Clone the repository:
